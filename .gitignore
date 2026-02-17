@@ -1,0 +1,10 @@
+*.jsonl
+*.json
+*.csv
+1429_1.csv
+clean_reviews.csv
+Books.jsonl
+Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv
+__pycache__/
+data/
+
